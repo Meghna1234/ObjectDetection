@@ -1,0 +1,36 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+background-size: cover;
+position: center;
+}
+
+canvas{
+    box-shadow:5px 5px 5px grey;
+    border-radius: 20px;
+}
+
+.buttonhome{
+    background-color: #bcd4e6;
+    box-shadow: 5px 5px 5px #B284BE;
+    font-size:18px;
+    border-radius: 10px;
+}
+
+.buttonback{
+    background-color: #bcd4e6;
+    box-shadow: 5px 5px 5px #B284BE;
+    font-size:18px;
+    float:right;
+    border-radius: 10px;
+}
